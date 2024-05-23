@@ -1,5 +1,4 @@
-# **Vitrine**
-## Experiência de utilizar **CRUD** e API em um site
+# Experiência de utilizar **CRUD** e API em um site
 Neste projeto base, disponibilizado pelo professor [Alex Morgado](https://github.com/alexmpereira), criamos um CRUD e utilizamos uma API do ViaCep com as informações inseridas pelo usuário.
 ***
 Fizemos uma verificação de contas de usuário por um formulário utilizando bando de dados.
